@@ -1,0 +1,4 @@
+#Thu Nov 07 08:34:21 KST 2019
+base.0=D\:\\goodie2-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
